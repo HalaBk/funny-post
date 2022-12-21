@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 20 11:50:15 CET 2022:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046) : instance a816c00e-0185-2f27-caf4-0000012dba00 
+dans le répertoire de base de données C:\Users\Eleve.TAR004294\eclipse-workspace\funny_post\cciDB avec le chargeur de classe jdk.internal.loader.ClassLoaders$AppClassLoader@26f67b76
+Chargé de file:/C:/Users/Eleve.TAR004294/Downloads/db-derby-10.16.1.1-bin/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.5+8
+user.dir=C:\Users\Eleve.TAR004294\eclipse-workspace\funny_post
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''
